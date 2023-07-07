@@ -36,7 +36,7 @@ Run development server
 $ python manage.py runserver
 ```
 
-Navigate to https://127.0.0.1:8000 (django servers are set to port number 8000 by default)
+Navigate to http://127.0.0.1:8000 (django servers are set to port number 8000 by default)
 
 If need for a specific port (`portnumber` is the port you wish to use), run:
 ```sh
